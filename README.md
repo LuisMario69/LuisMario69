@@ -5,6 +5,8 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 I am a technologist currently studying Software Analysis and Development at SENA. I excel in Python and Java programming languages. I am passionate about learning and building innovative, secure, and impactful solutions.
 
    I am interested in cybersecurity

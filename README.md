@@ -76,6 +76,15 @@ I am a technologist currently studying Software Analysis and Development at SENA
      <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
  </span>
 
+<h2>Github stats:</h2>
+
+<div style="display: flex; flex-direction: row;" align="center">
+  <img class="img" height="160cm" src="https://github-readme-stats.vercel.app/api?username=LuisMario69&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+  <img class="img" height="160cm" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMario69&theme=tokyonight&hide_border=true" />
+</div>
+
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
